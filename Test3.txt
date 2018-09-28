@@ -1,2 +1,1 @@
-using merge command in github.
-Hello !
+using merge command in github 
