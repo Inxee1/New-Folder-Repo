@@ -1,1 +1,1 @@
-using merge command in github 
+Push request send to central repo.
